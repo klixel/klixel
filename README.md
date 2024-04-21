@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Klixel 👋
 
-<!--
-**klixel/klixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, who is passionate about data analytics. I'm always on the lookout for exciting projects and opportunities to collaborate.
 
-Here are some ideas to get you started:
+## 🛠 Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rust](https://img.shields.io/badge/-Rust-red?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexklik296@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-klixel)
+
+## 🚀 What I'm looking for
+
+I'm always open to new opportunities and ready to contribute to interesting projects. If you're looking for someone who can contribute to your team, create quality code, and bring fresh ideas, I'd love to discuss this with you!
+
+## 📊 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klixel&show_icons=true&theme=tokyonight)
